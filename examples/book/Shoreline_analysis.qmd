@@ -1,0 +1,37 @@
+# Shoreline Analysis
+
+:::{.panel-tabset}
+
+## 01.01 - Wet/Dry Shoreline
+
+This is the first tab content.
+
+## 01.02 - Estuarine Shoreline
+
+This is the second tab content.
+
+:::
+
+## List of Outputs
+
+Check box
+
+::: {.callout-note}
+This is a note callout.
+:::
+
+::: {.callout-warning}
+This is a warning callout
+:::
+
+::: {.callout-important}
+This is an important callout
+:::
+
+::: {.callout-caution}
+This is a caution callout
+:::
+
+::: {.callout-tip}
+This is a tip callout.With a bit of `code`.
+:::

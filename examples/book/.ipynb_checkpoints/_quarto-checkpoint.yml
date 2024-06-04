@@ -5,17 +5,21 @@ execute:
   freeze: auto
 
 book:
-  title: "NCDOT CMP Procedures"
-  author: "Dallas Hoffman"
-  date: "May 4, 2024"
+  title: "Sample bookup-html book project"
+  author: "Jane Doe"
+  date: today
   downloads: [pdf, epub]
+  doi: "10.XXX/XXX"
+  url: https://example.com
+  repo-url: https://github.com/juba/bookup-html/tree/main/examples/book
+  repo-actions: edit
   search: true
   reader-mode: true
   sidebar:
     style: "docked"
   chapters:
     - index.qmd
-    - part: "Contents"
+    - part: "Content"
       chapters:
         - sample.qmd
         - summary.qmd
